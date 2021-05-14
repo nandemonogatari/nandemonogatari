@@ -4,7 +4,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/208357117298606082.png" alt="My discord account">
 </p>
 
-<a     align="left" href="https://nandemonogatari.github.io/quarantined-nexys-commands/index.html" target="_blank" rel="noreferrer noopener">
+<a     align="left" href="https://nandemonogatari.github.io/quarantined-nexys-commands/index.html" target="_blank">
   <img align="left" src="https://github.com/nandemonogatari/quarantined-nexys-commands/blob/gh-pages/cdn/images/nexys_corona.png?raw=true" height="330px"/>
 </a>
 
