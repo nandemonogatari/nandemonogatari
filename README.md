@@ -1,6 +1,12 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnandemonogatari&count_bg=%234651F3&title_bg=%23E34646&icon=&icon_color=%23E7E7E7&title=Viewers&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnandemonogatari%2Fnandemonogatari&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-### mhm
+<p align="left">  
+  <img src="https://discord.c99.nl/widget/theme-4/208357117298606082.png" alt="My discord account">
+</p>
+
+<a     align="left" href="https://nandemonogatari.github.io/quarantined-nexys-commands/index.html">
+  <img align="left" src="https://github.com/nandemonogatari/quarantined-nexys-commands/blob/gh-pages/cdn/images/nexys_corona.png?raw=true" height="330px"/>
+</a>
 
 <!--
 **nandemonogatari/nandemonogatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
